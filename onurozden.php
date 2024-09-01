@@ -1,6 +1,6 @@
 <?php
 /* OnurOzden's life */
-namespace OnurOzden;
+namespace Universe\World\Human\OnurOzden;
 
 /* Lifecycle */
 class Lifecycle {
